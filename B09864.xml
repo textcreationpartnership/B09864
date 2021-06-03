@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Redemptio ab aquilone, or, Some good out of Scotland.  To the tune of, Cook Laurell</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09864</idno><idno type="EEBO-CITATION">64551657</idno>
+  <idno type="VID">184757</idno>
+  <idno type="EEBO-PROQUEST">2240867496</idno>
+  
+            <idno type="STC">Wing R660AA</idno>
+            <idno type="STC">ESTC R182548</idno>
+            <idno type="OCLC">64551657</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09864)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184757)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Redemptio ab aquilone, or, Some good out of Scotland.  To the tune of, Cook Laurell</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Albemarle, George Monck, --  Duke of, 1608-1670.</term>
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:184757:1"/>
+            <head>REDEMPTIO AB AQUILONE, Or some Good out of SCOTLAND.</head>
+            <opener>To the Tune of <hi>Cook Laurell.</hi>
+            </opener>
+            <lg>
+               <l>THe <hi>Westminster</hi> Rump hath been little at ease,</l>
+               <l>Of which you have heard enough one would think,</l>
+               <l>And therefore wee'l lay it aside if you please,</l>
+               <l>For the more we do stir in't the more it will stink.</l>
+            </lg>
+            <lg>
+               <l>These County resolves for a <hi>Parliament free,</hi>
+               </l>
+               <l>Makes the Rump smell worse than it did of late,</l>
+               <l>For now it runs down their heels you may see,</l>
+               <l>You may call them our Privy-Members of State.</l>
+            </lg>
+            <lg>
+               <l>But why should this Rump deal so roughly with <hi>Kent?</hi>
+               </l>
+               <l>When <hi>England</hi> was conquer'd they were scot-free,</l>
+               <l>Must they for declari<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g of all men be shent?</l>
+               <l>But long ta l and bob-tail can never agree.</l>
+            </lg>
+            <lg>
+               <l>'Tis much disputed who Antichrist is,</l>
+               <l>I think 'tis this Rump, nor am I in jest,</l>
+               <l>For indeed, although of the number it miss,</l>
+               <l>Of this I am sure t'has the mark of the Beast.</l>
+            </lg>
+            <lg>
+               <l>I cannot believe that our General <hi>Monk</hi>
+               </l>
+               <l>Intends to protect it, hee's not such a Fool;</l>
+               <l>For if he were rightly inform'd how it stunk,</l>
+               <l>He never would joyn with such Grooms of the Stool.</l>
+            </lg>
+            <lg>
+               <l>If I might advise him, he should not come near it,</l>
+               <l>The scent of that house is naught for his Gout,</l>
+               <l>And for his Army too; he may well fear it,</l>
+               <l>'Tis enough to infect both his horse and his foot.</l>
+            </lg>
+            <lg>
+               <l>Nor would I wish him to come to <hi>Whitehall,</hi>
+               </l>
+               <l>For that hath been an unfortunate place;</l>
+               <l>From thence <hi>Noll</hi> was fetchd, and <hi>Dick</hi> had his fall:</l>
+               <l>And <hi>George</hi> may take heed that it be not his Case.</l>
+            </lg>
+            <lg>
+               <l>I remember the time when you fought for the King,</l>
+               <l>And the Cause was good, though you did not prevail.</l>
+               <l>O let not the Boyes in the Streets now sing,</l>
+               <l>He was once for the <hi>Head,</hi> but now for the <hi>Tayl.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then <hi>George for England</hi> strike up thy Drum,</l>
+               <l>And do thy devoir this Rump to destroy,</l>
+               <l>That Noble King <hi>Charles</hi> the second may come,</l>
+               <l>And our Streets may eccho with <hi>Vive le Roy.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And if <hi>He</hi> shall come by thy Valour and Might,</l>
+               <l>In that brave Exploit thou'lt have more to brag on,</l>
+               <l>Than ere had Saint <hi>George</hi> that valiant Knight,</l>
+               <l>Who rescued the Maid by killing the Dragon.</l>
+            </lg>
+            <lg>
+               <l>Then lay by the thought of a <hi>Parliament free,</hi>
+               </l>
+               <l>But first bring the <hi>King</hi> in if you be wise,</l>
+               <l>For without <hi>King</hi> and <hi>Lords</hi> there none can be;</l>
+               <l>Twill be but a Rump of a bigger sise.</l>
+            </lg>
+            <div type="acrostic">
+               <head>An Acrostick on General <hi>GEORGE MONK.</hi>
+               </head>
+               <list>
+                  <item>G <hi>George on Horseback,</hi>
+                  </item>
+                  <item>E <hi>Englands Champion,</hi>
+                  </item>
+                  <item>O <hi>Overcome of the fierce Dragon,</hi>
+                  </item>
+                  <item>R <hi>Royal Plantagenet,</hi>
+                  </item>
+                  <item>G <hi>George o' th' Monastr'y,</hi>
+                  </item>
+                  <item>E <hi>Englands Saviour out of Slavery.</hi>
+                  </item>
+                  <item>M <hi>Mount thy Horse,</hi>
+                  </item>
+                  <item>O <hi>On thy Army bring,</hi>
+                  </item>
+                  <item>N <hi>Neuter stand till</hi>
+                  </item>
+                  <item>K <hi>Restores the KING.</hi>
+                  </item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
